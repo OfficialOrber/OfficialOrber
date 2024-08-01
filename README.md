@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @OfficialOrber
+- 👀 I’m interested in all things tech
+- 🌱 I’m currently a software engineering manager
+- 💞️ I’m looking to collaborate on any innovative projects, I have a few hours to dedicate every week
+- 📫 You can reach me on ojesus@orberandco.com
+- ⚡ Fun fact: The first computer mouse was made of wood! Invented by Douglas Engelbart in 1964, the mouse was a simple wooden shell with two metal wheels and is now a crucial component in modern computing.
