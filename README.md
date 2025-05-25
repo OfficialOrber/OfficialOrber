@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OfficialOrber
+- 👋 Hi, I’m @project.orb3r
 - 👀 I’m interested in all things tech
 - 🌱 I’m currently a software engineering manager
 - 💞️ I’m looking to collaborate on any innovative projects, I have a few hours to dedicate every week
